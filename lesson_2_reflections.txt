@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 	
 	A hidden file .git is created. To use version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	staging area is the link between the working dir and the repo
+	it acts like a buffer
