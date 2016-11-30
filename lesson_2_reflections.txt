@@ -23,3 +23,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	
 	A new commit is made linking both the branches.
 	Because new connections are made.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Conflicts are reported and merging is not randomn and forceful
